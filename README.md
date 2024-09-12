@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on happy-mac
 - 📫 How to reach me house-778@house-778.org
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i an cool
+- ⚡ Fun fact: i am cool
 
 <!---
 DFoster-2/DFoster-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
