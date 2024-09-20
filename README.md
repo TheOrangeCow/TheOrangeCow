@@ -6,6 +6,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am cool
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrangeCow&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOrangeCow&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 DFoster-2/DFoster-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
