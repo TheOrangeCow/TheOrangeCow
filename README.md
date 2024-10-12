@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on happy-mac
 - 📫 How to reach me house-778@house-778.org
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am cool
+- ⚡ Fun fact: stuff
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrangeCow&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
