@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheOrangeCow
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on happy-mac
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me house-778@house-778.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: stuff
