@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me house-778@house-778.org
+- 📫 How to reach me don't
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: stuff
 
