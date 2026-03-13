@@ -13,6 +13,7 @@ Hi, I am an enthusiastic developer with a passion for building creative and effi
 
 ### Favourite Projects
 
+- Amoeba [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/AmoebaVirtualMachineV2)
 - Unbeatable 0 & X [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/Unwinnable-0-X)
 - Python on a Stick [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/Python_on_a_stick)
 - Video to ASCII Art [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/Video-to-ASKII-Art)
