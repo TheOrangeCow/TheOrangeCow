@@ -7,6 +7,7 @@ Hi, I am an enthusiastic developer with a passion for building creative and effi
 ### What I am up to now
 
 - Shooter [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/shooter)
+- Cow-servers [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/cow_servers)
 - 3d 0 and x
 - 5d 0 and x
 - house-778
