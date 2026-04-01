@@ -6,9 +6,11 @@ Hi, I am an enthusiastic developer with a passion for building creative and effi
 
 ### My websites
 
-- [House-778](https://house-778.org)
+- [Main](https://theorangecow.org)
+- [Cow servers](https://cow-servers.theorangecow.org)
+- [House-778 (new)](https://house-778.theorangecow.org)
+- [House-778 (old)](https://house-778.org)
 - [Cheese](https://theorangecow.github.io/cheese/)
-- New one coming soon
 
 ### What I am up to now
 
@@ -21,6 +23,7 @@ Hi, I am an enthusiastic developer with a passion for building creative and effi
 ### Favourite Projects
 
 - Amoeba [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/AmoebaVirtualMachineV2)
+- House-778 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/house-778)
 - Unbeatable 0 & X [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/Unwinnable-0-X)
 - Python on a Stick [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/Python_on_a_stick)
 - Video to ASCII Art [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/Video-to-ASKII-Art)
