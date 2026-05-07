@@ -13,17 +13,14 @@ Hi, I am an enthusiastic developer with a passion for building creative and effi
 - [Cheese](https://theorangecow.github.io/cheese/)
 
 ### What I am up to now
-
-- Shooter [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/shooter)
-- Cow-servers [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/cow_servers)
+- Library [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/library)
 - 3d 0 and x
 - 5d 0 and x
-- house-778
 
 ### Favourite Projects
 
 - Amoeba [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/AmoebaVirtualMachineV2)
-- Library [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/libary)
+- Library [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/library)
 - House-778 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/house-778)
 - Unbeatable 0 & X [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/Unwinnable-0-X)
 - Python on a Stick [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/Python_on_a_stick)
