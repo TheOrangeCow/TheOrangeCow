@@ -7,6 +7,7 @@ Hi, I am an enthusiastic developer with a passion for building creative and effi
 ### My websites
 
 - [Main](https://theorangecow.org)
+- [Main](https://library.theorangecow.org)
 - [Cow servers](https://cow-servers.theorangecow.org)
 - [House-778 (new)](https://house-778.theorangecow.org)
 - [House-778 (old)](https://house-778.org)
