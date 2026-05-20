@@ -20,6 +20,8 @@ Hi, I am an enthusiastic developer with a passion for building creative and effi
 
 ### Favourite Projects
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TheOrangeCow&repo=TheOrangeCow/AmoebaVirtualMachine)](https://github.com/TheOrangeCow/AmoebaVirtualMachine)
+
 - Amoeba [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/AmoebaVirtualMachineV2)
 - Library [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/library)
 - House-778 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheOrangeCow/house-778)
