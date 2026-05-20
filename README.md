@@ -44,6 +44,6 @@ Hi, I am an enthusiastic developer with a passion for building creative and effi
 ![Node.js](https://img.shields.io/badge/Node.js-18-green?style=for-the-badge&logo=node.js)
 
 ### Stats 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TheOrangeCow&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=TheOrangeCow&show_icons=true&include_all_commits=true&theme=dark)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TheOrangeCow&langs_count=15&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=TheOrangeCow&langs_count=15&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TheOrangeCow&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=TheOrangeCow&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TheOrangeCow&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=TheOrangeCow&langs_count=4)
