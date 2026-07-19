@@ -8,6 +8,7 @@ Hi, I am an enthusiastic developer with a passion for building creative and effi
 
 - [Main](https://theorangecow.org)
 - [Library](https://library.theorangecow.org)
+- [cow.fun](https://fun.theorangecow.org)
 - [Cow servers](https://cow-servers.theorangecow.org)
 - [House-778 (new)](https://house-778.theorangecow.org)
 - [Brain wave ](https://brainwave.theorangecow.org)
